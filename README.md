@@ -1,6 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
+In this challenge we are using different sampling methods to test a machine learning model for credit risk.
 
 ## Results
 
@@ -35,3 +36,4 @@
 - Recall: 1.0
 
 ## Summary
+We used 6 different sampling techniques to assess a machine learning model for predicting credit risk. The ensemble methods showed overfitting so they should not be used. Of the four resampling methods, there isn't a standout model to use in predicting credit risk. We should care more about recall when assessing this model.The highest recall is still only 0.70 which leaves room for incorrectly predicting credit risk. 
